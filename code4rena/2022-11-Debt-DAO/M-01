@@ -1,0 +1,22 @@
+# LineLib.sol uses payable().transfer, which may lead to denial of service
+
+## Lines of code
+https://github.com/debtdao/Line-of-Credit/blob/e8aa08b44f6132a5ed901f8daa231700c5afeb3a/contracts/utils/LineLib.sol#L48
+
+## Vulnerability details
+## Impact
+The use of payable.transfer() is heavily frowned upon because it can lead to the locking of funds. The transfer() call requires that the recipient has a payable callback, only provides 2300 gas for its operation. This means the following cases can cause the transfer to fail:
+
+The contract does not have a payable callback
+The contract’s payable callback spends more than 2300 gas (which is only enough to emit something)
+The contract is called through a proxy which itself uses up the 2300 gas
+If a user falls into one of the above categories, they’ll be unable to receive funds. Inaccessible funds means loss of funds, which is Medium severity.
+
+## Proof of Concept
+https://github.com/debtdao/Line-of-Credit/blob/e8aa08b44f6132a5ed901f8daa231700c5afeb3a/contracts/utils/LineLib.sol#L48
+
+## Tools Used
+Manual Review
+
+## Recommended Mitigation Steps
+Use address.call{value:x}() instead.
