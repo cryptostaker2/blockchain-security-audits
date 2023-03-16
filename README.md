@@ -33,6 +33,17 @@ Reach out to me on [Twitter](https://twitter.com/cryptostaker22) for private aud
 | 2022-11     | [Astaria](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/sherlock/2022-11-Astaria)               | 1       | 2      |
 | 2022-10     | [Union Finance](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/sherlock/2022-10-Union-Finance)   | -       | 1      |
 
+## Sherlock Judging Contest
+
+| Date     | Protocol Name                      | Rank   | 
+| :------: | :--------------------------------: | :----: |
+| 2023-02  | Union Finance Update               | 4/50   |  
+| 2023-01  | Ajna                               | 5/87   |   
+| 2023-01  | Cooler                             | 5/68   | 
+| 2023-01  | UXD Protocol                       | 10/69  | 
+| 2023-01  | Illuminate Round 2                 | 12/33  | 
+| 2023-01  | Notional Update                    | 12/57  | 
+
 ## About Me
 
 Top 60 Code4rena 2023 Leaderboards
