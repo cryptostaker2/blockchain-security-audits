@@ -1,10 +1,7 @@
-## TABLE OF CONTENTS
-- [G-01] ++I costs less gas as compared to I++ or I+= 1
-- [G-02] Increments can be unchecked
-- [G-03] X += Y cost more gas than X = X + Y for state variables
-- [G-04] Using private rather than public for constants saves gas
-- [G-05] Increments in for loop can be unchecked (saves 30-40 gas per loop iteration)
-- [G-06] Cache Storage values in memory to minimize sloads
+# Full Report:
+
+## Gas Findings:
+
 ### [G-01] ++I costs less gas as compared to I++ or I+= 1
 ++i costs less gas compared to i++ or i += 1 for unsigned integer, as pre-increment is cheaper (about 5 gas per iteration). This statement is true even with the optimizer enabled.
 
@@ -56,3 +53,4 @@ The majority of Solidity for loops increment a uint256 variable that starts at 0
 The code can be optimized by minimising the number of SLOADs. SLOADs are expensive 100 gas compared to MLOADs/MSTOREs(3gas) Storage value should get cached in memory... eg. marketIndex
 
 Line 219
+

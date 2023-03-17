@@ -1,6 +1,7 @@
-## TABLE OF CONTENTS
-- [G-01] No need to explicitly initialize variables with default value
-- [G-02] Using abi.encode() is less efficient than abi.encodePacked()
+# Full Report
+
+## Gas Findings 
+
 ### [G-01] No need to explicitly initialize variables with default value
 If a variable is not set/initialized, it is assumed to have the default value (0 for uint, false for bool, address(0) for address…). Explicitly initializing it with its default value is an anti-pattern and wastes gas. In the similar code above, the initialization of uint256 i = 0 can be simplified to uint256 i
 
@@ -25,6 +26,7 @@ can become
                 cons.recipient = feeRecipients[i];
             }
 ### [G-02] Using abi.encode() is less efficient than abi.encodePacked()
+
 https://ethereum.stackexchange.com/questions/119583/when-to-use-abi-encode-abi-encodepacked-or-abi-encodewithsignature-in-solidity
 
 File: ListOnZoraProposal.sol Line 115 File: ListOnOpenseaProposal.sol Line 164, Line 219

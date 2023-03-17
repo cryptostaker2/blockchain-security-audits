@@ -1,12 +1,7 @@
-## TABLE OF CONTENTS
-- [G-01] ++I costs less gas as compared to I++ or I+= 1
-- [G-02] Increments can be unchecked
-- [G-03] Store array length in for-loops
-- [G-04] Duplicated require() / revert() checks should be refactored to a modifier or function
-- [G-05] Use private rather than public for constants, saves gas
-- [G-06] Using > 0 costs more gas than != 0 when used on a uint in a require() statement
-- [G-07] x += y costs more gas than x = x + y for state variables
-- [G-08] Updating solidity version to the latest saves gas
+# Full Report:
+
+## Gas Findings:
+
 ### [G-01] ++I costs less gas as compared to I++ or I+= 1
 ++i costs less gas compared to i++ or i += 1 for unsigned integer, as pre-increment is cheaper (about 5 gas per iteration). This statement is true even with the optimizer enabled.
 ```
