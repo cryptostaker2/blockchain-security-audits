@@ -1,5 +1,9 @@
-# Vouchers that vouches first may not get their stake locked or unlocked sequentially according to updateLocked() if cancelVouch() is called
-## Summary
+# Full Report
+
+## Medium Findings:
+
+### [M-01] Vouchers that vouches first may not get their stake locked or unlocked sequentially according to updateLocked() if cancelVouch() is called
+### Summary
 Line 792, UserManager.sol
 ```
 
@@ -10,7 +14,7 @@ Line 792, UserManager.sol
 ```
 When cancelVouch() is called, the ordering of vouchers for a borrower becomes messed up.
 
-## Vulnerability Detail
+### Vulnerability Detail
 1. There are 5 vouchers for a borrower
 2. Borrower decides to remove the first voucher by calling cancelVouch()
 3. Voucher 1 index is replaced by voucher 5 and voucher 5's index is popped off.
@@ -18,13 +22,13 @@ When cancelVouch() is called, the ordering of vouchers for a borrower becomes me
 ## Impact
 It will be unfair for early vouchers as they will not get their stake locked or unlock first.
 
-## Code Snippet
+### Code Snippet
 https://github.com/sherlock-audit/2022-10-union-finance/blob/main/union-v2-contracts/contracts/user/UserManager.sol#L577-L591
 
 https://github.com/sherlock-audit/2022-10-union-finance/blob/main/union-v2-contracts/contracts/user/UserManager.sol#L800-L809
 
-## Tool used
+### Tool used
 Manual Review
 
-## Recommendation
+### Recommendation
 Have a mapping for vouchers' order to make sure rewards are received sequentially.

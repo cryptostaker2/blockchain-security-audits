@@ -1,15 +1,3 @@
-# Sherlock - Astaria Audit
-
-Contest: https://app.sherlock.xyz/audits/contests/8
-
-## Findings Summary
-
-|  ID  | Title                                                                                                            | Severity |
-| :--: | :--------------------------------------------------------------------------------------------------------------- | :------- |
-| H-01 | Bidder's payment is not refunded if Auction is cancelled prematurely via cancelAuction()                         | High     |
-| M-01 | AuctionHouse firstBidTime is set to block.timestamp which breaks the calculation of the Auction's total duration | Medium   |
-| M-02 | Bids cannot be created within timeBuffer of completion of a max duration auction                                 | Medium   |
-
 # Full Report
 
 ## High Findings:
