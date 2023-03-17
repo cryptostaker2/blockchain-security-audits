@@ -1,11 +1,27 @@
-# Code4rena - JuiceBox Audit 
+# Code4rena - JuiceBox Audit
 
 Contest: https://code4rena.com/contests/2022-10-juicebox-contest
 
-## Non-Critical:
+## Findings Summary
 
-[Non-Critical](https://github.com/cryptostaker2/blockchain-audits/blob/main/code4rena/2022-10-Juicebox/Non-Critical.md)
+| ID   | Title                                                                             | Severity |
+| :--- | :-------------------------------------------------------------------------------- | :------- |
+| M-01 | Non-library/interface files should use fixed compiler versions, not floating ones | Info     |
+| M-02 | Typos                                                                             | Info     |
+| M-02 | Require statements should have error message                                      | Info     |
 
+# Full Report
 
+## Non-Critical Findings:
 
+### [N-01] Non-library/interface files should use fixed compiler versions, not floating ones
 
+JBTiered721DelegateStore.sol, JBTiered721Delegate.sol, JB721TieredGovernance.sol, JBTiered721DelegateProjectDeployer.sol, JBTiered721DelegateDeployer.sol, JB721GlobalGovernance.sol
+
+### [N-02] Typos
+
+based is repeated in JBTiered721Delegate.sol
+
+### [N-03] Require statements should have error message
+
+JBTiered721Delegate.sol
