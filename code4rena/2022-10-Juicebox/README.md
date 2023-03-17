@@ -6,9 +6,9 @@ Contest: https://code4rena.com/contests/2022-10-juicebox-contest
 
 | ID   | Title                                                                             | Severity |
 | :--- | :-------------------------------------------------------------------------------- | :------- |
-| M-01 | Non-library/interface files should use fixed compiler versions, not floating ones | Info     |
-| M-02 | Typos                                                                             | Info     |
-| M-02 | Require statements should have error message                                      | Info     |
+| N-01 | Non-library/interface files should use fixed compiler versions, not floating ones | Info     |
+| N-02 | Typos                                                                             | Info     |
+| N-02 | Require statements should have error message                                      | Info     |
 
 # Full Report
 
