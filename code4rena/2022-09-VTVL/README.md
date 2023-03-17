@@ -13,7 +13,7 @@ Contest: https://code4rena.com/contests/2022-09-vtvl-contest
 | G-03 | Splitting require() statements that use && saves gas                            |   Gas    |
 | G-04 | Using > 0 costs more gas than != 0 when used on a uint in a require() statement |   Gas    |
 
-## Full Report
+# Full Report
 
 ## Medium Findings:
 
