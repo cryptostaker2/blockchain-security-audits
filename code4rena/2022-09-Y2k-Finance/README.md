@@ -5,7 +5,7 @@ Contest: https://code4rena.com/contests/2022-09-y2k-finance-contest
 ## Findings Summary
 
 | ID | Title                                                                         | Severity |
-|:-: | :--:                                                                          | :------: |
+|:-: | :--                                                                          | :------: |
 |G-01 | ++I costs less gas as compared to I++ or I+= 1                               | Gas |
 |G-02 | Increments can be unchecked                                                  | Gas |
 |G-03 | X += Y cost more gas than X = X + Y for state variables                      | Gas |
