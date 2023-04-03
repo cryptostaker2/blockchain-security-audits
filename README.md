@@ -50,9 +50,7 @@ Top 60 Code4rena 2023 Leaderboards
 
 Warden Name: [peanuts](https://code4rena.com/leaderboard)
 
-## Sample Report (Biconomy)
-
-# Code4rena - Biconomy Audit
+# Sample Report (Biconomy)
 
 Contest: https://code4rena.com/contests/2023-01-biconomy-smart-contract-wallet-contest
 
