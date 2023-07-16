@@ -10,6 +10,11 @@ My publications on [Substack](https://cryptostaker.substack.com/?r=1qao2k&utm_ca
 
 |  Date   |                                                        Protocol Name                                                         | High | Medium | Low | Non-Critical | Gas |  Rank   |
 | :-----: | :--------------------------------------------------------------------------------------------------------------------------: | :--: | :----: | :-: | :----------: | :-: | :-----: |
+| 2023-06 |                                                            Stader                                                            |  -   |   -    |  -  |      -       |  -  |  20/75  |
+| 2023-05 |                                                            Venus                                                             |  -   |   -    |  -  |      -       |  -  | 12/102  |
+| 2023-04 |                                                         Frankencoin                                                          |  -   |   -    |  -  |      -       |  -  | 52/199  |
+| 2023-04 |                                                            Caviar                                                            |  -   |   -    |  -  |      -       |  -  | 31/120  |
+| 2023-03 |                                                          Asymmetry                                                           |  -   |   -    |  -  |      -       |  -  | 17/246  |
 | 2023-03 |          [Wenwin ](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-03-Wenwin)           |  -   |   1    |  6  |      8       |  -  |  21/93  |
 | 2023-02 |         [Popcorn ](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-02-Popcorn)          |  3   |   -    |  4  |      2       |  -  | 54/169  |
 | 2023-01 | [RabbitHole Quest](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-01-RabbitHole-Quest) |  1   |   3    |  3  |      6       |  -  | 26/173  |
