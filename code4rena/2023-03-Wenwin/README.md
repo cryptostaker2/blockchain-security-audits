@@ -2,6 +2,8 @@
 
 Contest: https://code4rena.com/contests/2023-03-wenwin-contest
 
+Full Report: https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-03-Wenwin/Report.md
+
 ## Findings Summary
 
 | ID   | Title                                                                                        | Severity |
