@@ -2,6 +2,10 @@
 
 Contest: https://code4rena.com/contests/2022-10-juicebox-contest
 
+Full Report: https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2022-10-Juicebox/Report.md
+
+Duration: 19 October 2022 - 24 October 2022
+
 ## Findings Summary
 
 | ID   | Title                                                                             | Severity |
@@ -10,18 +14,4 @@ Contest: https://code4rena.com/contests/2022-10-juicebox-contest
 | N-02 | Typos                                                                             | Info     |
 | N-02 | Require statements should have error message                                      | Info     |
 
-# Full Report
 
-## Non-Critical Findings:
-
-### [N-01] Non-library/interface files should use fixed compiler versions, not floating ones
-
-JBTiered721DelegateStore.sol, JBTiered721Delegate.sol, JB721TieredGovernance.sol, JBTiered721DelegateProjectDeployer.sol, JBTiered721DelegateDeployer.sol, JB721GlobalGovernance.sol
-
-### [N-02] Typos
-
-based is repeated in JBTiered721Delegate.sol
-
-### [N-03] Require statements should have error message
-
-JBTiered721Delegate.sol

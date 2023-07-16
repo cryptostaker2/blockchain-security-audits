@@ -4,6 +4,8 @@ Contest: https://code4rena.com/contests/2023-03-wenwin-contest
 
 Full Report: https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-03-Wenwin/Report.md
 
+Duration: 7 March 2023 - 10 March 2023
+
 ## Findings Summary
 
 | ID   | Title                                                                                        | Severity |
@@ -13,8 +15,8 @@ Full Report: https://github.com/cryptostaker2/blockchain-security-audits/blob/ma
 | L-02 | Avoid Division before Multiplication                                                         | Low      |
 | L-03 | Check for address(0) or amount == 0 in the LotterySetupParams constructor                    | Low      |
 | L-04 | Unbounded Loop when buying an excessive amount of tickets                                    | Low      |
-| L-05 | Use safeMint() instead of mint() for ERC721 tokens                                           | Info     |
-| L-06 | Frontend address should check for address(0)                                                 | Info     |
+| L-05 | Use safeMint() instead of mint() for ERC721 tokens                                           | Low      |
+| L-06 | Frontend address should check for address(0)                                                 | Low      |
 | N-01 | Use require instead of assert                                                                | Info     |
 | N-02 | All functions should have NATSPEC comments in the interface file                             | Info     |
 | N-03 | Critical functions should emit an event                                                      | Info     |
@@ -23,4 +25,3 @@ Full Report: https://github.com/cryptostaker2/blockchain-security-audits/blob/ma
 | N-06 | Lock pragma version                                                                          | Info     |
 | N-07 | Standardize pragma version                                                                   | Info     |
 | N-08 | Function writing that does not comply with the Solidity Style Guide                          | Info     |
-
