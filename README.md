@@ -10,8 +10,8 @@ My publications on [Substack](https://cryptostaker.substack.com/?r=1qao2k&utm_ca
 
 |  Date   |                                                        Protocol Name                                                         | High | Medium | Low | Non-Critical | Gas |  Rank   |
 | :-----: | :--------------------------------------------------------------------------------------------------------------------------: | :--: | :----: | :-: | :----------: | :-: | :-----: |
-| 2023-06 |           [Stader] (https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-06-Stader)           |  -   |   2    |  -  |      -       |  -  |  20/75  |
-| 2023-05 |           [Venus] (https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-05-Venus)            |  -   |   3    |  -  |      -       |  -  | 12/102  |
+| 2023-06 |           [Stader](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-06-Stader)           |  -   |   2    |  -  |      -       |  -  |  20/75  |
+| 2023-05 |            [Venus](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-05-Venus)            |  -   |   3    |  -  |      -       |  -  | 12/102  |
 | 2023-04 |      [Frankencoin](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-04-Frankencoin)      |  -   |   2    |  -  |      -       |  -  | 52/199  |
 | 2023-04 |           [Caviar](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-04-Caviar)           |  -   |   1    |  -  |      -       |  -  | 31/120  |
 | 2023-03 |        [Asymmetry](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-03-Asymmetry)        |  2   |   3    |  8  |      4       |  -  | 17/246  |
