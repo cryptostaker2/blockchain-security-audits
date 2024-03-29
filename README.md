@@ -6,12 +6,23 @@ Reach out to me on [Twitter](https://twitter.com/cryptostaker22) for private aud
 
 My publications on [Substack](https://cryptostaker.substack.com/?r=1qao2k&utm_campaign=pub&utm_medium=web)
 
-My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos) 
+My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos)
+
+## Pashov Audit Group
+
+|  Date   |                                                Protocol Name                                                 |
+| :-----: | :----------------------------------------------------------------------------------------------------------: |
+| 2023-03 |            [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review.pdf)            |
+| 2023-02 | [Tapioca DAO](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review-february.pdf) |
 
 ## Code4rena
 
 |  Date   |                                                        Protocol Name                                                         | High | Medium | Low | Non-Critical | Gas |  Rank   |
 | :-----: | :--------------------------------------------------------------------------------------------------------------------------: | :--: | :----: | :-: | :----------: | :-: | :-----: |
+| 2024-01 |                                  [Decent](https://code4rena.com/audits/2024-01-decent#top)                                   |  2   |   3    |  -  |      -       |  -  | 11/113  |
+| 2024-01 |                                 [Salty.IO](https://code4rena.com/audits/2024-01-saltyio#top)                                 |  1   |   3    |  -  |      -       |  -  | 12/177  |
+| 2023-12 |                               [Shell](https://code4rena.com/audits/2023-11-shell-protocol#top)                               |  -   |   -    |  -  |      -       |  -  |  1/22   |
+| 2023-10 |                                [Ethena](https://code4rena.com/audits/2023-10-ethena-labs#top)                                |  -   |   3    |  -  |      -       |  -  |  1/147  |
 | 2023-06 |           [Stader](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-06-Stader)           |  -   |   2    |  -  |      -       |  -  |  20/75  |
 | 2023-05 |            [Venus](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-05-Venus)            |  -   |   3    |  -  |      -       |  -  | 12/102  |
 | 2023-04 |      [Frankencoin](https://github.com/cryptostaker2/blockchain-security-audits/blob/main/code4rena/2023-04-Frankencoin)      |  -   |   2    |  -  |      -       |  -  | 52/199  |
@@ -55,7 +66,7 @@ My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos)
 
 ## About Me
 
-Top 60 Code4rena 2023 Leaderboards
+Top 76th Code4rena 2023 Leaderboards
 
 Warden Name: [peanuts](https://code4rena.com/leaderboard)
 
