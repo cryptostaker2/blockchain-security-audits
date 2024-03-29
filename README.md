@@ -12,8 +12,8 @@ My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos)
 
 |  Date   |                                                Protocol Name                                                 |
 | :-----: | :----------------------------------------------------------------------------------------------------------: |
-| 2023-03 |            [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review.pdf)            |
-| 2023-02 | [Tapioca DAO](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review-february.pdf) |
+| 2024-03 |            [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review.pdf)            |
+| 2024-02 | [Tapioca DAO](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review-february.pdf) |
 
 ## Code4rena
 
