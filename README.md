@@ -12,6 +12,9 @@ My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos)
 
 |  Date   |                                                Protocol Name                                                 |
 | :-----: | :----------------------------------------------------------------------------------------------------------: |
+| 2024-05 |            Rivus            |
+| 2024-04 |            Open Dollar                                                                                     |
+| 2024-04 |            Curio           |
 | 2024-03 |            [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review.pdf)            |
 | 2024-02 | [Tapioca DAO](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review-february.pdf) |
 
