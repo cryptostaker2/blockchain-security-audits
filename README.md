@@ -8,13 +8,27 @@ My publications on [Substack](https://cryptostaker.substack.com/?r=1qao2k&utm_ca
 
 My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos)
 
+## Cantina
+
+|  Date   |                                         Protocol Name                                         | High | Medium | Low | Rank |
+| :-----: | :-------------------------------------------------------------------------------------------: | :--: | :----: | :-: | :--: |
+| 2024-07 |  [Grass](https://cantina.xyz/competitions/3211ee0d-133f-43a0-837e-8dc1ecfaa424/leaderboard)   |  2   |   -    |  -  |  8   |
+| 2024-04 | [Curvance](https://cantina.xyz/competitions/3211ee0d-133f-43a0-837e-8dc1ecfaa424/leaderboard) |  4   |   -    |  -  |  9   |
+
 ## Pashov Audit Group
 
 |  Date   |                                                Protocol Name                                                 |
 | :-----: | :----------------------------------------------------------------------------------------------------------: |
-| 2024-05 |            Undisclosed            |
-| 2024-04 |            [Open Dollar](https://github.com/pashov/audits/blob/master/team/pdf/OpenDollar-security-review.pdf)|
-| 2024-04 |            Undisclosed           |
+| 2024-09 |                                                 Undisclosed                                                  |
+| 2024-07 |                                                 Undisclosed                                                  |
+| 2024-07 |                                                 Undisclosed                                                  |
+| 2024-07 |                                                 Undisclosed                                                  |
+| 2024-06 |             [Bio](https://github.com/pashov/audits/blob/master/team/pdf/Bio-security-review.pdf)             |
+| 2024-05 |          [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review-May.pdf)          |
+| 2024-05 |          [Aburra](https://github.com/pashov/audits/blob/master/team/pdf/Aburra-security-review.pdf)          |
+| 2024-05 |           [Rivus](https://github.com/pashov/audits/blob/master/team/pdf/Rivus-security-review.pdf)           |
+| 2024-04 |     [Open Dollar](https://github.com/pashov/audits/blob/master/team/pdf/OpenDollar-security-review.pdf)      |
+| 2024-04 |           [Curio](https://github.com/pashov/audits/blob/master/team/pdf/Curio-security-review.pdf)           |
 | 2024-03 |            [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review.pdf)            |
 | 2024-02 | [Tapioca DAO](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review-february.pdf) |
 
@@ -22,6 +36,8 @@ My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos)
 
 |  Date   |                                                        Protocol Name                                                         | High | Medium | Low | Non-Critical | Gas |  Rank   |
 | :-----: | :--------------------------------------------------------------------------------------------------------------------------: | :--: | :----: | :-: | :----------: | :-: | :-----: |
+| 2024-05 |                                     [Renzo](https://code4rena.com/audits/2024-04-renzo)                                      |  2   |   3    |  -  |      -       |  -  | 16/122  |
+| 2024-02 |                                   [UniStaker](https://code4rena.com/audits/2024-04-renzo)                                    |  -   |   -    |  -  |      -       |  -  |  12/47  |
 | 2024-01 |                                  [Decent](https://code4rena.com/audits/2024-01-decent#top)                                   |  2   |   3    |  -  |      -       |  -  | 11/113  |
 | 2024-01 |                                 [Salty.IO](https://code4rena.com/audits/2024-01-saltyio#top)                                 |  1   |   3    |  -  |      -       |  -  | 12/177  |
 | 2023-12 |                               [Shell](https://code4rena.com/audits/2023-11-shell-protocol#top)                               |  -   |   -    |  -  |      -       |  -  |  1/22   |
