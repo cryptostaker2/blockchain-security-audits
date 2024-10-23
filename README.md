@@ -8,21 +8,15 @@ My publications on [Substack](https://cryptostaker.substack.com/?r=1qao2k&utm_ca
 
 My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos)
 
-## Cantina
-
-|  Date   |                                         Protocol Name                                         | High | Medium | Low | Rank |
-| :-----: | :-------------------------------------------------------------------------------------------: | :--: | :----: | :-: | :--: |
-| 2024-07 |  [Grass](https://cantina.xyz/competitions/3211ee0d-133f-43a0-837e-8dc1ecfaa424/leaderboard)   |  2   |   -    |  -  |  8   |
-| 2024-04 | [Curvance](https://cantina.xyz/competitions/3211ee0d-133f-43a0-837e-8dc1ecfaa424/leaderboard) |  4   |   -    |  -  |  9   |
-
 ## Pashov Audit Group
 
 |  Date   |                                                Protocol Name                                                 |
 | :-----: | :----------------------------------------------------------------------------------------------------------: |
+| 2024-10 |                                                 Undisclosed                                                  |
+| 2024-10 |                                                 Undisclosed                                                  |
 | 2024-09 |                                                 Undisclosed                                                  |
-| 2024-07 |                                                 Undisclosed                                                  |
-| 2024-07 |                                                 Undisclosed                                                  |
-| 2024-07 |                                                 Undisclosed                                                  |
+| 2024-07 |        [Curio](https://github.com/pashov/audits/blob/master/team/pdf/Curio-security-review-July.pdf)         |
+| 2024-07 |       [GroupCoin](https://github.com/pashov/audits/blob/master/team/pdf/Groupcoin-security-review.pdf)       |
 | 2024-06 |             [Bio](https://github.com/pashov/audits/blob/master/team/pdf/Bio-security-review.pdf)             |
 | 2024-05 |          [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review-May.pdf)          |
 | 2024-05 |          [Aburra](https://github.com/pashov/audits/blob/master/team/pdf/Aburra-security-review.pdf)          |
@@ -31,6 +25,13 @@ My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos)
 | 2024-04 |           [Curio](https://github.com/pashov/audits/blob/master/team/pdf/Curio-security-review.pdf)           |
 | 2024-03 |            [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review.pdf)            |
 | 2024-02 | [Tapioca DAO](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review-february.pdf) |
+
+## Cantina
+
+|  Date   |                                         Protocol Name                                         | High | Medium | Low | Rank |
+| :-----: | :-------------------------------------------------------------------------------------------: | :--: | :----: | :-: | :--: |
+| 2024-07 |  [Grass](https://cantina.xyz/competitions/3211ee0d-133f-43a0-837e-8dc1ecfaa424/leaderboard)   |  2   |   -    |  -  |  8   |
+| 2024-04 | [Curvance](https://cantina.xyz/competitions/3211ee0d-133f-43a0-837e-8dc1ecfaa424/leaderboard) |  4   |   -    |  -  |  9   |
 
 ## Code4rena
 
