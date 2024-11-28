@@ -8,13 +8,21 @@ My publications on [Substack](https://cryptostaker.substack.com/?r=1qao2k&utm_ca
 
 My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos)
 
-## Pashov Audit Group
+## [Shieldy Security](https://github.com/shieldify-security/audits-portfolio)
 
 |  Date   |                                                Protocol Name                                                 |
 | :-----: | :----------------------------------------------------------------------------------------------------------: |
+| 2024-11 |                                                 Undisclosed                                                  |
 | 2024-10 |                                                 Undisclosed                                                  |
+
+## [Pashov Audit Group](https://github.com/pashov/audits/tree/master)
+
+|  Date   |                                                Protocol Name                                                 |
+| :-----: | :----------------------------------------------------------------------------------------------------------: |
+| 2024-11 |                                                 Undisclosed                                                  |
 | 2024-10 |                                                 Undisclosed                                                  |
-| 2024-09 |                                                 Undisclosed                                                  |
+| 2024-10 |      [Ethena](https://github.com/pashov/audits/blob/master/team/pdf/Ethena-security-review-October.pdf)      |
+| 2024-09 |        [Interpol](https://github.com/pashov/audits/blob/master/team/pdf/Interpol-security-review.pdf)        |
 | 2024-07 |        [Curio](https://github.com/pashov/audits/blob/master/team/pdf/Curio-security-review-July.pdf)         |
 | 2024-07 |       [GroupCoin](https://github.com/pashov/audits/blob/master/team/pdf/Groupcoin-security-review.pdf)       |
 | 2024-06 |             [Bio](https://github.com/pashov/audits/blob/master/team/pdf/Bio-security-review.pdf)             |
