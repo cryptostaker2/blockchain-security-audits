@@ -8,7 +8,7 @@ My publications on [Substack](https://cryptostaker.substack.com/?r=1qao2k&utm_ca
 
 My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos)
 
-## [Shieldy Security](https://github.com/shieldify-security/audits-portfolio)
+## [Shieldify Security](https://github.com/shieldify-security/audits-portfolio)
 
 |  Date   |                                                Protocol Name                                                 |
 | :-----: | :----------------------------------------------------------------------------------------------------------: |
