@@ -2,23 +2,28 @@
 
 A collection of my personal blockchain security audits.
 
-Reach out to me on [Twitter](https://twitter.com/cryptostaker22) for private audits.
+My publications on [Substack](https://cryptostaker.substack.com/?r=1qao2k&utm_campaign=pub&utm_medium=web).
 
-My publications on [Substack](https://cryptostaker.substack.com/?r=1qao2k&utm_campaign=pub&utm_medium=web)
+My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos).
 
-My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos)
+For enquiries and quotes on private audits, reach out to me on
+
+- [Twitter](https://twitter.com/cryptostaker22) @cryptostaker22
+- [Telegram](t.me/peanuts1234): @peanuts1234
 
 ## [Shieldify Security](https://github.com/shieldify-security/audits-portfolio)
 
-|  Date   |                                                Protocol Name                                                 |
-| :-----: | :----------------------------------------------------------------------------------------------------------: |
-| 2024-11 |                                                 Undisclosed                                                  |
-| 2024-10 |                                                 Undisclosed                                                  |
+|  Date   | Protocol Name |
+| :-----: | :-----------: |
+| 2024-11 |  Undisclosed  |
+| 2024-11 |  Undisclosed  |
+| 2024-10 |  Undisclosed  |
 
 ## [Pashov Audit Group](https://github.com/pashov/audits/tree/master)
 
 |  Date   |                                                Protocol Name                                                 |
 | :-----: | :----------------------------------------------------------------------------------------------------------: |
+| 2024-11 |                                                 Undisclosed                                                  |
 | 2024-11 |                                                 Undisclosed                                                  |
 | 2024-10 |                                                 Undisclosed                                                  |
 | 2024-10 |      [Ethena](https://github.com/pashov/audits/blob/master/team/pdf/Ethena-security-review-October.pdf)      |
