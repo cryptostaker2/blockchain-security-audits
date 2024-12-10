@@ -10,6 +10,13 @@ For enquiries and quotes on private audits, reach out to me on
 
 - [Twitter](https://twitter.com/cryptostaker22) @cryptostaker22
 - [Telegram](t.me/peanuts1234): @peanuts1234
+- Discord: cryptostaker
+
+## [BailSec](https://github.com/bailsec/BailSec)
+
+|  Date   | Protocol Name |
+| :-----: | :-----------: |
+| 2024-12 |  Undisclosed  |
 
 ## [Shieldify Security](https://github.com/shieldify-security/audits-portfolio)
 
