@@ -6,7 +6,7 @@ My publications on [Substack](https://cryptostaker.substack.com/?r=1qao2k&utm_ca
 
 My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos).
 
-For enquiries and quotes on private audits, reach out to me on
+For enquiries and quotes on private audits or audit consultations, reach out to me on
 
 - [Twitter](https://twitter.com/cryptostaker22) @cryptostaker22
 - [Telegram](t.me/peanuts1234): @peanuts1234
@@ -20,19 +20,21 @@ For enquiries and quotes on private audits, reach out to me on
 
 ## [Shieldify Security](https://github.com/shieldify-security/audits-portfolio)
 
-|  Date   | Protocol Name |
-| :-----: | :-----------: |
-| 2024-11 |  Undisclosed  |
-| 2024-11 |  Undisclosed  |
-| 2024-10 |  Undisclosed  |
+|  Date   |                                                          Protocol Name                                                           |
+| :-----: | :------------------------------------------------------------------------------------------------------------------------------: |
+| 2024-12 |                                                           Undisclosed                                                            |
+| 2024-12 |                                                           Undisclosed                                                            |
+| 2024-11 |      [Dinero](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dinero-SuperETH-Security-Review.pdf)      |
+| 2024-11 | [HoneyPot Finance](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/HoneypotFinance-Security-Review.pdf) |
+| 2024-10 |           [Vyper](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Vyper-Security-Review.pdf)            |
 
 ## [Pashov Audit Group](https://github.com/pashov/audits/tree/master)
 
 |  Date   |                                                Protocol Name                                                 |
 | :-----: | :----------------------------------------------------------------------------------------------------------: |
 | 2024-11 |                                                 Undisclosed                                                  |
-| 2024-11 |                                                 Undisclosed                                                  |
-| 2024-10 |                                                 Undisclosed                                                  |
+| 2024-11 |       [Rivus](https://github.com/pashov/audits/blob/master/team/pdf/Rivus-security-review-October.pdf)       |
+| 2024-10 |     [LaPoste](https://github.com/pashov/audits/blob/master/team/pdf/LaPoste-security-review-October.pdf)     |
 | 2024-10 |      [Ethena](https://github.com/pashov/audits/blob/master/team/pdf/Ethena-security-review-October.pdf)      |
 | 2024-09 |        [Interpol](https://github.com/pashov/audits/blob/master/team/pdf/Interpol-security-review.pdf)        |
 | 2024-07 |        [Curio](https://github.com/pashov/audits/blob/master/team/pdf/Curio-security-review-July.pdf)         |
