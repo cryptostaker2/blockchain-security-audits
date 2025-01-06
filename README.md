@@ -22,8 +22,9 @@ For enquiries and quotes on private audits or audit consultations, reach out to 
 
 |  Date   |                                                          Protocol Name                                                           |
 | :-----: | :------------------------------------------------------------------------------------------------------------------------------: |
-| 2024-12 |                                                           Undisclosed                                                            |
-| 2024-12 |                                                           Undisclosed                                                            |
+| 2025-01 |                                                         Undisclosed (R)                                                          |
+| 2024-12 |                                                         Undisclosed (V)                                                          |
+| 2024-12 |                                                         Undisclosed (G)                                                          |
 | 2024-11 |      [Dinero](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dinero-SuperETH-Security-Review.pdf)      |
 | 2024-11 | [HoneyPot Finance](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/HoneypotFinance-Security-Review.pdf) |
 | 2024-10 |           [Vyper](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Vyper-Security-Review.pdf)            |
@@ -32,7 +33,8 @@ For enquiries and quotes on private audits or audit consultations, reach out to 
 
 |  Date   |                                                Protocol Name                                                 |
 | :-----: | :----------------------------------------------------------------------------------------------------------: |
-| 2024-11 |                                                 Undisclosed                                                  |
+| 2024-12 |                                               Undisclosed (S)                                                |
+| 2024-11 |                                               Undisclosed (F)                                                |
 | 2024-11 |       [Rivus](https://github.com/pashov/audits/blob/master/team/pdf/Rivus-security-review-October.pdf)       |
 | 2024-10 |     [LaPoste](https://github.com/pashov/audits/blob/master/team/pdf/LaPoste-security-review-October.pdf)     |
 | 2024-10 |      [Ethena](https://github.com/pashov/audits/blob/master/team/pdf/Ethena-security-review-October.pdf)      |
