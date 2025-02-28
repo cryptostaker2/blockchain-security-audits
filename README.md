@@ -19,43 +19,43 @@ For enquiries and quotes on private audits or audit consultations, reach out to 
 
 ## [Shieldify Security](https://github.com/shieldify-security/audits-portfolio)
 
-|  Date   |                                                          Protocol Name                                                           |
-| :-----: | :------------------------------------------------------------------------------------------------------------------------------: |
-| 2025-02 |                                                         Undisclosed (S)                                                          |
-| 2025-01 |                                                         Undisclosed (H2)                                                         |
-| 2025-01 |                                                         Undisclosed (Fl)                                                         |
-| 2025-01 |                                                         Undisclosed (R)                                                          |
-| 2024-12 |                                                         Undisclosed (V)                                                          |
-| 2024-12 |                                                         Undisclosed (G)                                                          |
-| 2024-11 |      [Dinero](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dinero-SuperETH-Security-Review.pdf)      |
-| 2024-11 | [HoneyPot Finance](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/HoneypotFinance-Security-Review.pdf) |
-| 2024-10 |           [Vyper](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Vyper-Security-Review.pdf)            |
+|  Date   |                                                          Protocol Name                                                           |   Protocol Type    |
+| :-----: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------: |
+| 2025-02 |                                                         Undisclosed (S)                                                          |         -          |
+| 2025-01 |                                                         Undisclosed (H2)                                                         |         -          |
+| 2025-01 |                                                         Undisclosed (Fl)                                                         |         -          |
+| 2025-01 |                                                         Undisclosed (R)                                                          |         -          |
+| 2024-12 |                                                         Undisclosed (V)                                                          |         -          |
+| 2024-12 |                                                         Undisclosed (G)                                                          |         -          |
+| 2024-11 |      [Dinero](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dinero-SuperETH-Security-Review.pdf)      | Cross-Chain Bridge |
+| 2024-11 | [HoneyPot Finance](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/HoneypotFinance-Security-Review.pdf) |  UniV3 LaunchPad   |
+| 2024-10 |           [Vyper](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Vyper-Security-Review.pdf)            |   Liquidity Pool   |
 
 ## [Pashov Audit Group](https://github.com/pashov/audits/tree/master)
 
-|  Date   |                                                Protocol Name                                                 |
-| :-----: | :----------------------------------------------------------------------------------------------------------: | 
-| 2025-02 |                                               Undisclosed (Fa)                                               |
-| 2025-02 |                                               Undisclosed (V)                                                |
-| 2025-02 |                                               Undisclosed (CF)                                               |
-| 2025-01 |                                               Undisclosed (BN)                                               |
-| 2025-01 |                                               Undisclosed (OT)                                               |
-| 2024-12 |                                               Undisclosed (S)                                                |
-| 2024-11 |                                               Undisclosed (F)                                                |
-| 2024-11 |       [Rivus](https://github.com/pashov/audits/blob/master/team/pdf/Rivus-security-review-October.pdf)       |
-| 2024-10 |     [LaPoste](https://github.com/pashov/audits/blob/master/team/pdf/LaPoste-security-review-October.pdf)     |
-| 2024-10 |      [Ethena](https://github.com/pashov/audits/blob/master/team/pdf/Ethena-security-review-October.pdf)      |
-| 2024-09 |        [Interpol](https://github.com/pashov/audits/blob/master/team/pdf/Interpol-security-review.pdf)        |
-| 2024-07 |        [Curio](https://github.com/pashov/audits/blob/master/team/pdf/Curio-security-review-July.pdf)         |
-| 2024-07 |       [GroupCoin](https://github.com/pashov/audits/blob/master/team/pdf/Groupcoin-security-review.pdf)       |
-| 2024-06 |             [Bio](https://github.com/pashov/audits/blob/master/team/pdf/Bio-security-review.pdf)             |
-| 2024-05 |          [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review-May.pdf)          |
-| 2024-05 |          [Aburra](https://github.com/pashov/audits/blob/master/team/pdf/Aburra-security-review.pdf)          |
-| 2024-05 |           [Rivus](https://github.com/pashov/audits/blob/master/team/pdf/Rivus-security-review.pdf)           |
-| 2024-04 |     [Open Dollar](https://github.com/pashov/audits/blob/master/team/pdf/OpenDollar-security-review.pdf)      |
-| 2024-04 |           [Curio](https://github.com/pashov/audits/blob/master/team/pdf/Curio-security-review.pdf)           |
-| 2024-03 |            [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review.pdf)            |
-| 2024-02 | [Tapioca DAO](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review-february.pdf) |
+|  Date   |                                                 Protocol Name                                                 |  Protocol Type  |
+| :-----: | :-----------------------------------------------------------------------------------------------------------: | :-------------: |
+| 2025-02 |                                               Undisclosed (Fa)                                                |        -        |
+| 2025-02 |                                                Undisclosed (V)                                                |        -        |
+| 2025-02 |                                               Undisclosed (CF)                                                |        -        |
+| 2025-01 |                                               Undisclosed (BN)                                                |        -        |
+| 2025-01 |                                               Undisclosed (OT)                                                |        -        |
+| 2024-12 |  [Stardust](https://github.com/pashov/audits/blob/master/team/pdf/Stardusts-security-review_2024-12-19.pdf)   | UniV2 LaunchPad |
+| 2024-11 | [FundRaiser](https://github.com/pashov/audits/blob/master/team/pdf/Fundraiser-security-review_2024-11-30.pdf) |    LaunchPad    |
+| 2024-10 |       [Rivus](https://github.com/pashov/audits/blob/master/team/pdf/Rivus-security-review-October.pdf)        |     Rebase      |
+| 2024-10 |     [LaPoste](https://github.com/pashov/audits/blob/master/team/pdf/LaPoste-security-review-October.pdf)      |      CCIP       |
+| 2024-10 |      [Ethena](https://github.com/pashov/audits/blob/master/team/pdf/Ethena-security-review-October.pdf)       |   Stablecoins   |
+| 2024-09 |        [Interpol](https://github.com/pashov/audits/blob/master/team/pdf/Interpol-security-review.pdf)         |   LP Staking    |
+| 2024-07 |        [Curio2](https://github.com/pashov/audits/blob/master/team/pdf/Curio-security-review-July.pdf)         |     Gaming      |
+| 2024-07 |       [GroupCoin](https://github.com/pashov/audits/blob/master/team/pdf/Groupcoin-security-review.pdf)        | UniV3 LaunchPad |
+| 2024-06 |             [Bio](https://github.com/pashov/audits/blob/master/team/pdf/Bio-security-review.pdf)              |     Vesting     |
+| 2024-05 |          [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review-May.pdf)           |      Vault      |
+| 2024-05 |          [Aburra](https://github.com/pashov/audits/blob/master/team/pdf/Aburra-security-review.pdf)           | UniV3 LaunchPad |
+| 2024-05 |           [Rivus](https://github.com/pashov/audits/blob/master/team/pdf/Rivus-security-review.pdf)            |     Staking     |
+| 2024-04 |      [Open Dollar](https://github.com/pashov/audits/blob/master/team/pdf/OpenDollar-security-review.pdf)      |   Stablecoins   |
+| 2024-04 |           [Curio](https://github.com/pashov/audits/blob/master/team/pdf/Curio-security-review.pdf)            |     Gaming      |
+| 2024-03 |            [Fyde](https://github.com/pashov/audits/blob/master/team/pdf/Fyde-security-review.pdf)             |     Staking     |
+| 2024-02 | [Tapioca DAO](https://github.com/pashov/audits/blob/master/team/pdf/TapiocaDAO-security-review-february.pdf)  |     ERC4626     |
 
 ## Cantina
 
