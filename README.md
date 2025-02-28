@@ -9,7 +9,6 @@ My [Youtube Account](https://www.youtube.com/@cryptostaker4138/videos).
 For enquiries and quotes on private audits or audit consultations, reach out to me on
 
 - [Twitter](https://twitter.com/cryptostaker22) @cryptostaker22
-- [Telegram](t.me/peanuts1234): @peanuts1234
 - Discord: cryptostaker
 
 ## [BailSec](https://github.com/bailsec/BailSec)
@@ -22,6 +21,9 @@ For enquiries and quotes on private audits or audit consultations, reach out to 
 
 |  Date   |                                                          Protocol Name                                                           |
 | :-----: | :------------------------------------------------------------------------------------------------------------------------------: |
+| 2025-02 |                                                         Undisclosed (S)                                                          |
+| 2025-01 |                                                         Undisclosed (H2)                                                         |
+| 2025-01 |                                                         Undisclosed (Fl)                                                         |
 | 2025-01 |                                                         Undisclosed (R)                                                          |
 | 2024-12 |                                                         Undisclosed (V)                                                          |
 | 2024-12 |                                                         Undisclosed (G)                                                          |
@@ -32,7 +34,12 @@ For enquiries and quotes on private audits or audit consultations, reach out to 
 ## [Pashov Audit Group](https://github.com/pashov/audits/tree/master)
 
 |  Date   |                                                Protocol Name                                                 |
-| :-----: | :----------------------------------------------------------------------------------------------------------: |
+| :-----: | :----------------------------------------------------------------------------------------------------------: | 
+| 2025-02 |                                               Undisclosed (Fa)                                               |
+| 2025-02 |                                               Undisclosed (V)                                                |
+| 2025-02 |                                               Undisclosed (CF)                                               |
+| 2025-01 |                                               Undisclosed (BN)                                               |
+| 2025-01 |                                               Undisclosed (OT)                                               |
 | 2024-12 |                                               Undisclosed (S)                                                |
 | 2024-11 |                                               Undisclosed (F)                                                |
 | 2024-11 |       [Rivus](https://github.com/pashov/audits/blob/master/team/pdf/Rivus-security-review-October.pdf)       |
