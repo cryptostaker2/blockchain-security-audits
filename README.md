@@ -11,35 +11,50 @@ For enquiries and quotes on private audits or audit consultations, reach out to 
 - [Twitter](https://twitter.com/cryptostaker22) @cryptostaker22
 - Discord: cryptostaker
 
+## [HackenProof](https://hackenproof.com/audit-programs)
+
+|  Date   |                                    Protocol Name                                    |   Protocol Type    |
+| :-----: | :---------------------------------------------------------------------------------: | :----------------: |
+| 2025-06 | [C8ntinuum](https://hackenproof.com/audit-programs/c8ntinuum-sc-dualdefense-audit)  |        AMM         |
+| 2025-05 | [Ignite Market](https://hackenproof.com/audit-programs/ignite-market-audit-contest) | Conditional Tokens |
+
+## [ImmuneFi](https://immunefi.com/)
+
+|  Date   |                                         Protocol Name                                         | Protocol Type |
+| :-----: | :-------------------------------------------------------------------------------------------: | :-----------: |
+| 2025-06 | [Flare FAssets](https://immunefi.com/audit-competition/audit-comp-flare-fassets/information/) |  Bridge, L1   |
+| 2025-04 |         [Yeet ](https://immunefi.com/audit-competition/audit-comp-yeet/information/)          |     Game      |
+
 ## [BailSec](https://github.com/bailsec/BailSec)
 
-|  Date   | Protocol Name |
-| :-----: | :-----------: |
-| 2024-12 |  Undisclosed  |
+|  Date   |                                             Protocol Name                                              | Protocol Type |
+| :-----: | :----------------------------------------------------------------------------------------------------: | :-----------: |
+| 2025-03 |    [Nome](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Nome%20-%20Final%20Report.pdf)    |  Synthetics   |
+| 2024-12 | [Liquify](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Liquify%20-%20Final%20Report.pdf) |    Lending    |
 
 ## [Shieldify Security](https://github.com/shieldify-security/audits-portfolio)
 
-|  Date   |                                                          Protocol Name                                                           |   Protocol Type    |
-| :-----: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------: |
-| 2025-02 |                                                         Undisclosed (S)                                                          |         -          |
-| 2025-01 |                                                         Undisclosed (H2)                                                         |         -          |
-| 2025-01 |                                                         Undisclosed (Fl)                                                         |         -          |
-| 2025-01 |                                                         Undisclosed (R)                                                          |         -          |
-| 2024-12 |                                                         Undisclosed (V)                                                          |         -          |
-| 2024-12 |                                                         Undisclosed (G)                                                          |         -          |
-| 2024-11 |      [Dinero](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dinero-SuperETH-Security-Review.pdf)      | Cross-Chain Bridge |
-| 2024-11 | [HoneyPot Finance](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/HoneypotFinance-Security-Review.pdf) |  UniV3 LaunchPad   |
-| 2024-10 |           [Vyper](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Vyper-Security-Review.pdf)            |   Liquidity Pool   |
+|  Date   |                                                                  Protocol Name                                                                   |   Protocol Type    |
+| :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------: |
+| 2025-02 |                  [Sparta](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Sparta-Security-Review.pdf)                   |   Liquidity Pool   |
+| 2025-01 | [HoneyPot Finance Update](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Honeypot-Pot2PumpUpdates-Security-Review.pdf) |  UniV3 LaunchPad   |
+| 2025-01 |                [Flare TitanX](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Flare-Security-Review.pdf)                |   Liquidity Pool   |
+| 2025-01 |             [Rooster](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/RoosterProtocol-Security-Review.pdf)              |      ve33 LP       |
+| 2024-12 |          [Vyper Boost Review](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Vyper-Boost-Security-Review.pdf)          |   Liquidity Pool   |
+| 2024-12 |                [GlueX Review](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/GlueX-Security-Review.pdf)                |       Router       |
+| 2024-11 |              [Dinero](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Dinero-SuperETH-Security-Review.pdf)              | Cross-Chain Bridge |
+| 2024-11 |         [HoneyPot Finance](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/HoneypotFinance-Security-Review.pdf)         |  UniV3 LaunchPad   |
+| 2024-10 |                   [Vyper](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Vyper-Security-Review.pdf)                    |   Liquidity Pool   |
 
 ## [Pashov Audit Group](https://github.com/pashov/audits/tree/master)
 
 |  Date   |                                                 Protocol Name                                                 |  Protocol Type  |
 | :-----: | :-----------------------------------------------------------------------------------------------------------: | :-------------: |
-| 2025-02 |                                               Undisclosed (Fa)                                                |        -        |
-| 2025-02 |                                                Undisclosed (V)                                                |        -        |
-| 2025-02 |                                               Undisclosed (CF)                                                |        -        |
-| 2025-01 |                                               Undisclosed (BN)                                                |        -        |
-| 2025-01 |                                               Undisclosed (OT)                                                |        -        |
+| 2025-02 |     [Falcon](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)     |   Stablecoins   |
+| 2025-02 |  [Veil Cash](https://github.com/pashov/audits/blob/master/team/pdf/VeilCash-security-review_2025-02-12.pdf)   |  Attestations   |
+| 2025-02 |   [CoinFlip](https://github.com/pashov/audits/blob/master/team/pdf/Coinflip-security-review_2025-02-05.pdf)   |      Game       |
+| 2025-01 | [Beam Nodes](https://github.com/pashov/audits/blob/master/team/pdf/BeamNodes-security-review_2025-01-28.pdf)  |   Cross-Chain   |
+| 2025-01 |                                                   STIX Swap                                                   |       AMM       |
 | 2024-12 |  [Stardust](https://github.com/pashov/audits/blob/master/team/pdf/Stardusts-security-review_2024-12-19.pdf)   | UniV2 LaunchPad |
 | 2024-11 | [FundRaiser](https://github.com/pashov/audits/blob/master/team/pdf/Fundraiser-security-review_2024-11-30.pdf) |    LaunchPad    |
 | 2024-10 |       [Rivus](https://github.com/pashov/audits/blob/master/team/pdf/Rivus-security-review-October.pdf)        |     Rebase      |
