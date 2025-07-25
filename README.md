@@ -77,7 +77,7 @@ For enquiries and quotes on private audits or audit consultations, reach out to 
 |  Date   |                                         Protocol Name                                         | High | Medium | Low | Rank |
 | :-----: | :-------------------------------------------------------------------------------------------: | :--: | :----: | :-: | :--: |
 | 2024-07 |  [Grass](https://cantina.xyz/competitions/3211ee0d-133f-43a0-837e-8dc1ecfaa424/leaderboard)   |  2   |   -    |  -  |  8   |
-| 2024-04 | [Curvance](https://cantina.xyz/competitions/3211ee0d-133f-43a0-837e-8dc1ecfaa424/leaderboard) |  4   |   -    |  -  |  9   |
+| 2024-04 | [Curvance](https://cantina.xyz/competitions/ac757733-81a4-43c7-8f49-17c5b135cdff/leaderboard) |  4   |   -    |  -  |  9   |
 
 ## Code4rena
 
